@@ -33,6 +33,8 @@ Clonar o repositório, abrir o projeto e após instalado as dependências rodar 
   <summary>
     Resposta
   </summary>
+  <br>
+  <img src ="https://github.com/Re04nan/project-springboot-h2/blob/main/assets/json.PNG" alt="print json response"/>
 </details>
 
 ## Tabelas
@@ -48,7 +50,8 @@ Clonar o repositório, abrir o projeto e após instalado as dependências rodar 
   <summary>
     Sondadb
   </summary>
-  
+  <br>
+  <img src="https://github.com/Re04nan/project-springboot-h2/blob/main/assets/h2console.PNG" alt="print db tables"/>
 </details>
 
 ## Dependências / ferramentas utilizadas
